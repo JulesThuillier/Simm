@@ -1,6 +1,6 @@
 Roses are Red , Non sont Bleus 
 Violets are blue
-<<<<<<< HEAD
+
 Julesssss is hot
 Alex too
 ADELE 
@@ -15,4 +15,12 @@ Jules is hot
 test1
 Alex too
 ah?
->>>>>>> origin/master
+
+Roses are Red 2
+Violets are blue5
+Jules is hot7
+test17
+Alex too7
+ah?s
+
+Celle-ci est la grose modification!
